@@ -1,5 +1,6 @@
 # Frontend Mentor - Easybank landing page
 
+
 !!To run project please use npm run sass!!
 !!And use for example serve comand to run npm serve to host locally!!
 
