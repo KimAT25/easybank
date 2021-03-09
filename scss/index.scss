@@ -142,7 +142,7 @@ button {
   }
 
   .main-banner-background {
-    background: url(../images/bg-intro-desktop.svg) no-repeat;
+    background: url('~images/bg-intro-desktop.svg') no-repeat;
     background-position: 10% 65%;
     height: 650px;
   }
@@ -403,7 +403,7 @@ button {
     }
 
     .main-banner-background {
-      background: url(../images/bg-intro-desktop.svg) no-repeat;
+      background: url('~images/bg-intro-desktop.svg') no-repeat;
       background-position: 8% 54%;
       height: 500px;
     }
@@ -537,7 +537,7 @@ button {
     flex-direction: column-reverse;
 
     .main-banner-background {
-      background: url(../images/bg-intro-desktop.svg) no-repeat;
+      background: url('~images/bg-intro-desktop.svg') no-repeat;
       background-position: 0% 45%;
       height: 58.59vw;
     }
@@ -583,7 +583,7 @@ button {
 @media screen and (max-width: 585px) {
   .main-banner {
     .main-banner-background {
-      background: url(../images/bg-intro-mobile.svg) no-repeat;
+      background: url('~images/bg-intro-mobile.svg') no-repeat;
       background-position: 0% 55%;
       height: 58.59vw;
       background-size: cover;
