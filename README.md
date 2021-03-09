@@ -3,6 +3,7 @@
 !!To run project please use npm run sass!!
 !!And use for example serve comand to run npm serve to host locally!!
 
+
 ![Design preview for the Easybank landing page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
